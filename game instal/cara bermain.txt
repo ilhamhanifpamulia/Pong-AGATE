@@ -1,0 +1,1 @@
+ini adalah game pong, dimainkan bisa multiplayer, untuk player 1 memainkan dengan menggunakan tombol w untuk ke atas dan s untuk ke bawah, lalu untuk player 2 menggunakan tombol atas untuk ke atas dan tombol bawah utnuk ke bawah
